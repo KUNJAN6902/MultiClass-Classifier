@@ -1,0 +1,13 @@
+(1) https://sentera.com/understanding-ndvi-plant-health/
+
+(2) https://gisgeography.com/ndvi-normalized-difference-vegetation-index/
+
+(3) https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index
+
+(4) https://medium.com/devseed/sentinel-2-satellite-imagery-for-crop-classification-part-2-47db3745eb49
+
+(5) http://ceur-ws.org/Vol-1638/Paper51.pdf
+
+(6) https://www.researchgate.net/publication/303907846_Classification_of_Land_and_Crops_Based_on_Satellite_Images_Landsat_8_Case_Study_SD_Timisoara
+
+(7) https://farmonaut.com/applications-of-satellite-imagery-2/
