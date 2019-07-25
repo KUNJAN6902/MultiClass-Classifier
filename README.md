@@ -18,7 +18,7 @@ This repository contains my work on **Multi-Class Classification** Model buildin
      - Grid Search for identifying Optimum Hyperparameter XGBClassifier.
 
 
-4. **Domain Knowledge - Links.txt** file contains references I used, to understand NDVI, SWIR, Remote Sensing in Agriculture.
+4. **Domain Knowledge - Links.txt** file contains references I used, to understand NDVI, SWIR & Remote Sensing in Agriculture.
 
 
 I am working on rebuilding model using Artifical Neural Network.
