@@ -4,7 +4,7 @@ This repository contains my work on **Multi-Class Classification** Model buildin
 
 
 2. **CropClassification.ipynb** - Jupyter notebook contains: 
-     - Data PreProcessing; 
+     - Data Preprocessing; 
      - Correlation Matrix;
      - Principal Component Analysis;
      - DecisionTreeClassifier - RandomForestClassifier - XGBClassifier ;
