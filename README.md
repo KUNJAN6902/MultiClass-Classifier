@@ -4,11 +4,11 @@ This repository contains my work on **Multi-Class Classification** Model buildin
 
 
 2. **CropClassification.ipynb** - Jupyter notebook contains: 
-  - Data PreProcessing; 
-  - Correlation Matrix;
-  - Principal Component Analysis;
-  - DecisionTreeClassifier - RandomForestClassifier - XGBClassifier ;
-  - HyperParameter Tunning for RandomForestClassifier and XGBClassifier.
+     - Data PreProcessing; 
+     - Correlation Matrix;
+     - Principal Component Analysis;
+     - DecisionTreeClassifier - RandomForestClassifier - XGBClassifier ;
+     - HyperParameter Tunning for RandomForestClassifier and XGBClassifier.
 
   => Working on this Notebook, To clarify my concepts on Dimensionality Reduction Techniques (PCA and LDA), I researched on this topic.        And, I have noted down my findings and understanding regarding this topic in **"Dimensionality Reduction - PCA & LDA.docx".**
 
