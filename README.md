@@ -10,7 +10,7 @@ This repository contains my work on **Multi-Class Classification** Model buildin
      - DecisionTreeClassifier - RandomForestClassifier - XGBClassifier ;
      - HyperParameter Tunning for RandomForestClassifier and XGBClassifier.
 
-     => Working on this Notebook, To clarify my concepts on Dimensionality Reduction Techniques (PCA and LDA), I researched on this topic.        And, I have noted down my findings and understanding regarding this topic in **"Dimensionality Reduction - PCA & LDA.docx".**
+     => Working on this Notebook, To clarify my concepts on Dimensionality Reduction Techniques (PCA and LDA), I researched on these               topics. And, I have noted down my findings and understanding regarding this topic in **"Dimensionality Reduction - PCA &                   LDA.docx".**
 
 
 3. **CropClassification LDA.ipynb** - Jupyter notebook contains :
