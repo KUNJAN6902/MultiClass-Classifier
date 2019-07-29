@@ -21,7 +21,7 @@ This repository contains my work on **Multi-Class Classification** Model buildin
 4. **Domain Knowledge - Links.txt** file contains references I used, to understand NDVI, SWIR & Remote Sensing in Agriculture.
 
 
-I am working on rebuilding model using Artifical Neural Network.
+5. **CropClassification - Multi Layer ANN.ipynb** file contains Artificial Neural Network model built for the same dataset using KerasClassifier.
 
 Any feedback will be appreciated.
 
