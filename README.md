@@ -15,7 +15,7 @@ This repository contains my work on **Multi-Class Classification** Model buildin
 
 3. **CropClassification LDA.ipynb** - Jupyter notebook contains :
      - Linear Desrimination Analysis;
-     - Grid Search for identifying Optimum Hyperparameter XGBClassifier.
+     - Grid Search for identifying Optimum Hyperparameter for XGBClassifier.
 
 
 4. **Domain Knowledge - Links.txt** file contains references I used, to understand NDVI, SWIR & Remote Sensing in Agriculture.
