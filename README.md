@@ -23,6 +23,8 @@ This repository contains my work on **Multi-Class Classification** Model buildin
 
 5. **CropClassification - Multi Layer ANN.ipynb** file contains Artificial Neural Network model built for the same dataset using KerasClassifier.
 
+6. **TensorFlow_with_GPU.ipynb** file contains work done on Google Colab using TPOTClassifier. TPOT is a python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+
 Any feedback will be appreciated.
 
 Thanks,
